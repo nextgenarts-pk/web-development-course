@@ -2,7 +2,7 @@
   <img src="https://nextgenarts.pk/logo.png" alt="NextGen Arts Logo" width="200">
 </p>
 
-<h1 align="center">🚀 Full Stack Web Development Course — Integrated with AI</h1>
+<h1 align="center">🚀 Full Stack Web Development Course Integrated with AI</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Duration-24%20Weeks%20(6%20Months)-blue" alt="Duration">
@@ -37,7 +37,7 @@
 
 Welcome to the **Full Stack Web Development Course — Integrated with AI** by **NextGen Arts**! This comprehensive **24-week (6-month)** program takes you from absolute beginner to a **job-ready full stack web developer** equipped with modern AI-powered development skills.
 
-You'll master **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, TypeScript, Next.js** — and learn to build **AI-integrated web applications** using OpenAI APIs, AI chatbots, and intelligent features. Build **real-world projects every week** and graduate with a professional portfolio.
+You'll master **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, TypeScript, Next.js**  and learn to build **AI-integrated web applications** using OpenAI APIs, AI chatbots, and intelligent features. Build **real-world projects every week** and graduate with a professional portfolio.
 
 ### 🎯 What You'll Learn
 
@@ -169,16 +169,16 @@ You'll master **HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, T
 ```
 Week 1-4     Week 5-8       Week 9-12      Week 13-16
 ┌─────────┐  ┌───────────┐  ┌───────────┐  ┌───────────────┐
-│  HTML5   │  │JavaScript │  │  React.js  │  │  Node.js &    │
-│  CSS3    │→ │  ES6+     │→ │  Hooks     │→ │  Express.js   │
-│ Tailwind │  │  DOM/APIs │  │  Router    │  │  MongoDB      │
+│  HTML5  │  │JavaScript │  │  React.js │  │  Node.js &    │
+│  CSS3   │→ │  ES6+     │→ │  Hooks    │→ │  Express.js   │
+│ Tailwind│  │  DOM/APIs │  │  Router   │  │  MongoDB      │
 └─────────┘  └───────────┘  └───────────┘  └───────────────┘
                                                     │
 Week 24      Week 21-22     Week 19-20     Week 17-18
 ┌─────────┐  ┌───────────┐  ┌───────────┐  ┌───────────────┐
-│Portfolio │  │TypeScript │  │    AI      │  │  Full Stack   │
-│ Career   │← │ Next.js   │← │Integration│← │  Integration  │
-│Demo Day  │  │Testing/CD │  │ Chatbots  │  │  Auth & APIs  │
+│Portfolio│  │TypeScript │  │    AI     │  │  Full Stack   │
+│ Career  │← │ Next.js   │← │Integration│← │  Integration  │
+│Demo Day │  │Testing/CD │  │ Chatbots  │  │  Auth & APIs  │
 └─────────┘  └───────────┘  └───────────┘  └───────────────┘
 ```
 
